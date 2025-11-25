@@ -1,0 +1,65 @@
+*{
+    margin:0rem;
+    border: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#nav{
+     height: 120px;
+    display: flex;
+}
+#Head{
+    color: black;
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+    font-size: 40px;
+}
+#Details{
+    margin-left: 77rem;
+}
+.Hero{
+    background-color:blue;
+    height: 180px;
+    color: white;
+    font-size:40px;
+    text-align: center;
+}
+#Description{
+    height:550px;
+    width:650px;
+    margin-left: 650px;
+}
+#CD{
+    margin-top: 30px;
+    font-size: 50px;
+    font-weight: bolder;
+}
+#DD{
+    margin-top: 30px;
+    font-size:30px;
+    font-weight: bold;
+}
+#du{
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+#VL{
+    margin-top: 30px;
+        font-size:30px;
+    font-weight: bold;
+}
+.intro{
+    margin-top: 30px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: right;
+    color:blue;
+    text-decoration: none;
+}
+#PDF{
+    margin-top: 30px;
+     font-size:30px;
+    font-weight: bold;
+}
